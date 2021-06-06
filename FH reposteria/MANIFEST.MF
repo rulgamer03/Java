@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+X-COMMENT: Gracias por su preferencia 
+Created-By: Ruly Programming
+Main-Class: Cotizacion
+
