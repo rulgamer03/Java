@@ -18,10 +18,6 @@ import javax.swing.JTextField;
 import java.awt.event.ActionListener;
 import javax.swing.JFrame;
 
-// 
-// Decompiled by Procyon v0.5.36
-// 
-
 public class Cotizacion extends JFrame implements ActionListener
 {
     private JTextField txtAb;
