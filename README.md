@@ -1,2 +1,2 @@
 # Java
-Java basic languaje 
+Java basic language 
